@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm a hydrologist specializing in early warning systems, currently bringing my expertise to Deltares. With a wealth of experience, I've been instrumental in developing early warning systems both at home and abroad. Some standout projects I've contributed to include the Jakarta Flood Early Warning System (J-FEWS), Indonesia's Water Center of Excellence (Pusat Studi Hidroinformatik), the Drought Early Warning System (DEWS), the National Water Resources Information System Cambodia (NWRIS Cambodia) and the Multi-Hazard Platform in Iskandar Malaysia (MHP-IM). My deep understanding of early warning systems in Indonesia comes from engaging interviews with EWS developers across the country as part of the Baseline Study for an End to End Multi-Hazard Early Warning System platform project.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
