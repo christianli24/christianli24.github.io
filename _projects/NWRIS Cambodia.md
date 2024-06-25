@@ -21,14 +21,14 @@ In this project, I was the main developer of NWRIS Cambodia. The system currentl
 4. Dedicated interface and web interface
 
 {% capture carousel_images %}
-![alt text](../assets/project-images/functionality_1.png)
-![alt text](../assets/project-images/functionality_2a.png)
-![alt text](../assets/project-images/functionality_2b.png)
-![alt text](../assets/project-images/functionality_3a.png)
-![alt text](../assets/project-images/functionality_3b.png)
-![alt text](../assets/project-images/functionality_3c.png)
-![alt text](../assets/project-images/functionality_3d.png)
-![alt text](../assets/project-images/functionality_4a.png)
-![alt text](../assets/project-images/functionality_4b.png)
+../assets/project-images/functionality_1.png
+../assets/project-images/functionality_2a.png
+../assets/project-images/functionality_2b.png
+../assets/project-images/functionality_3a.png
+../assets/project-images/functionality_3b.png
+../assets/project-images/functionality_3c.png
+../assets/project-images/functionality_3d.png
+../assets/project-images/functionality_4a.png
+../assets/project-images/functionality_4b.png
 {% endcapture %}
 {% include elements/carousel.html %}
